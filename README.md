@@ -1,5 +1,11 @@
-Otoyaz 
-{% img class logo.png 400 400 title_text alt_logo %}
+#Otoyaz 
+<p align="center" >
+
+    <br>
+
+    <img src="/logo.png" width="550">
+
+<br>
 ----
 - Otoyaz is a tool whose aim is to extract all URLs from a page of a website
 
